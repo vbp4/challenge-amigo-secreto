@@ -14,3 +14,4 @@ Interfaz responsiva y estilizada con CSS moderno.
 Feedback visual y accesibilidad básica (aria-live, roles, etc.).
 
 ¡Diviértete!
+<img width="969" height="823" alt="image" src="https://github.com/user-attachments/assets/3bca8a48-e6db-4b93-982a-b8674d061cb9" />
