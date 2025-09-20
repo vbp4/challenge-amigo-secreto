@@ -63,7 +63,7 @@ function sortearAmigo() {
   resultadoEl.innerHTML = `<li>🎉 El amigo secreto es: <strong>${elegido}</strong></li>`;
 }
 
-// Resetear lista
+// Resetear lista, no funciona
 function resetearLista() {
   const confirmar = confirm("¿Seguro que deseas reiniciar la lista?");
   if (!confirmar) return;
@@ -81,4 +81,5 @@ function actualizarUI() {
 }
 
 // Inicialización
+
 actualizarUI();
